@@ -1,3 +1,5 @@
+##Code to be Updated##
+
 # Image-Captioning
 Emphasized the critical role of attention mechanisms in the image captioning task, utilizing a ResNet-based encoder and a GRU-based decoder. Illustrated the paramount importance of attention in enhancing the quality and contextual relevance of generated captions by enabling the model to selectively focus on specific image regions.
 
